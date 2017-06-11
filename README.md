@@ -37,6 +37,7 @@
 * [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1) - Haven't tried it myself, but seems to be very good according to my friends.
 
 ## Machine Learning
+* [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) - A very good course about machine learning. Starts from very basics to semi advanced level in machine learning.
 * [Neural Network Architectures](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba) - A good blog that talks about a history of CNN. In the end it talks optimized method called ENet (Efficient Net).
 * [Everything that Works Works Because it's Bayesian: Why Deep Nets Generalize?](http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/) - A blog talking about why Stochastic Gradient Descent (SGD) is so good at generalizing.
 * [The Best Sources to Study Machine Learning and AI: Quora Session Highlight | Ben Hamner, Kaggle CTO](http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/) - How you should learn machine learning: 1) Find problems that interest you, 2) Find the simplest way to solve it, 3) Brush it up and make it open source
