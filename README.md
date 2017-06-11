@@ -31,6 +31,7 @@
 
 ## Probability and statistics
 * [Seeing theory](http://students.brown.edu/seeing-theory/) - For visually understanding basics in probability and statistics.
+* [Flowchart for choosing the right statistical tests](http://abacus.bates.edu/~ganderso/biology/resources/stats_flow_chart_v2014.pdf) - A good flowchart that summarizes various statistical tests and let you choose the right one for your analysis. However, there's no explanation about each methods.
 
 ## Basic computer engineering
 * [Algorithm visualizer](http://algo-visualizer.jasonpark.me/) - Visualizes basic alrogithms with codes by the side. Good to understand some basic algorithms if you don't know them.
