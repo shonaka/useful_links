@@ -16,14 +16,14 @@
 * [The MNI brain and the Talairach atlas](http://www.nil.wustl.edu/labs/kevin/man/answers/mnispace.html)
 
 ## Digital signal processing
-##### Book
+##### Books
 * [DSP Guide](http://www.dspguide.com/pdfbook.htm) - A detailed reference for DSP. All the pdfs are available here.
 
 ## Linear algebra
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Very good videos with full or visualizations to understand the intuitive meaning of linear algebras.
 
 ## Information theory
-##### Book
+##### Books
 * [Pattern recognition and Machine learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_1?ie=UTF8&qid=1497147849&sr=8-1&keywords=pattern+recognition+and+machine+learning) - A good book for referencing each of the content taught in the book (basic information theory for entropy to mutual information, machine learning algorithms such as linear discriminant analysis to SVM).
 
 ## Probability and statistics
@@ -48,4 +48,5 @@
 * [Overleaf](https://www.overleaf.com/) - Online Latex writing service for papers and other documents. There's no need for you to compile and import libraries to write documents in Latex.
 
 ## Advice and tips for Ph.D. life
+* [Some modest advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students) - A little old, but a good list of advice for Ph.D. students.
 * [How can a graduate student make the best out of his/her PhD experience?](https://www.quora.com/How-can-a-graduate-student-make-the-best-out-of-his-her-PhD-experience/answer/William-Beeman?share=c300e563&srid=uLAWM) - "Finally, do not be intimidated by the amount of reading you will be doing. This is almost the last time in your life when you will have the luxury of having the time to read. It is a tremendous gift to you. Take advantage of it."
