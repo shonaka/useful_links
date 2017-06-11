@@ -44,6 +44,7 @@
 * [The Best Sources to Study Machine Learning and AI: Quora Session Highlight | Ben Hamner, Kaggle CTO](http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/) - How you should learn machine learning: 1) Find problems that interest you, 2) Find the simplest way to solve it, 3) Brush it up and make it open source
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - A list of most cited deep learning papers.
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html) - A good article talking about various hyper parameter tuning in neural networks.
+* [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning) - A good resources to learn deep learning from information theory, mathematics, neuroscience, and statistical physics.
 
 ## Decoding
 #### Kalman filter related
