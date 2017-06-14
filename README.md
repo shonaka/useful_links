@@ -58,6 +58,7 @@
 
 #### Github
 * [Github totorial](https://try.github.io/levels/1/challenges/1) - An interactive website to learn how to use git shell. Recommended if you are starting to use git.
+* [Writing a friendly README](http://rowanmanning.com/posts/writing-a-friendly-readme/) - Talks about how to write a good README for a git repository.
 
 ## Productivity
 * [Kanbanflow](https://kanbanflow.com) - A good way to manage different projects.
