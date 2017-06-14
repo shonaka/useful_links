@@ -45,6 +45,7 @@
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - A list of most cited deep learning papers.
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html) - A good article talking about various hyper parameter tuning in neural networks.
 * [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning) - A good resources to learn deep learning from information theory, mathematics, neuroscience, and statistical physics.
+* [Implementing Convolutional Neural Networks](http://deepnotes.io/implementing-cnn) - A very good blog explaining about the very basics of how the CNN works in its core (Convolution layer, Maxpool layer, Batchnorm layer, etc).
 
 ## Decoding
 #### Kalman filter related
