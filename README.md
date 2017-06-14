@@ -4,13 +4,13 @@
 
 ## EEG related
 * [Makoto's preprocessing pipeline](https://sccn.ucsd.edu/wiki/Makoto's_preprocessing_pipeline) - Very detailed step by step instructions and reasoning on EEG cleaning pipeline. Although these steps could not simply be applied to your data since there's always things to account for, it's a good source to understand basic steps in EEG processing. The codes is also [available](https://sccn.ucsd.edu/wiki/Makoto%27s_useful_EEGLAB_code#Example_of_batch_code_to_preprocess_multiple_subjects_.2801.2F12.2F2017_updated.29).
-* [Online EEGLAB workshop](https://sccn.ucsd.edu/wiki/Online_EEGLAB_Workshop) - A very good lists of resources to understand methods regarding EEG. It has videos, pdfs, articles you could refer to.
+* [Online EEGLAB workshop](https://sccn.ucsd.edu/wiki/Online_EEGLAB_Workshop) - An awesome lists of resources to understand methods regarding EEG. It has videos, pdfs, articles you could refer to.
 * [EEGLAB list archives](https://sccn.ucsd.edu/pipermail/eeglablist/) - Not always useful, but could be a good source to find a specific answer regarding EEG. If you want to find out more than two words at the same time, Google chrome extension: [Multi-highlight](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji) could be useful.
-* [EEGLAB tutorials](https://sccn.ucsd.edu/wiki/EEGLAB_Wiki) - All the tutorials on EEGLAB are very useful when understanding EEG related things. But they are also very specific to EEGLAB open source library.
+* [EEGLAB tutorials](https://sccn.ucsd.edu/wiki/EEGLAB_Wiki) - All the tutorials on EEGLAB are really useful when understanding EEG related things. But they are also a little specific to EEGLAB open source library.
 * [Fieldtrip tutorials](http://www.fieldtriptoolbox.org/tutorial) - All the tutorials on Fieldtrip are very useful when understanding EEG related or fMRI related things.
 
 ##### Books
-* [Analyzing Neural Time Series Data: Theory and Practice](https://www.amazon.com/Analyzing-Neural-Time-Data-Neuropsychology/dp/0262019876/ref=sr_1_2?ie=UTF8&qid=1497147525&sr=8-2&keywords=mike+x+cohen) - Very good book to understand analysis on EEG. Covers from very basics of how to use MATLAB to in depth time frequency analysis in EEG.
+* [Analyzing Neural Time Series Data: Theory and Practice](https://www.amazon.com/Analyzing-Neural-Time-Data-Neuropsychology/dp/0262019876/ref=sr_1_2?ie=UTF8&qid=1497147525&sr=8-2&keywords=mike+x+cohen) - A very good book to understand analysis on EEG. Covers from the basics of how to use MATLAB to in depth time frequency analysis in EEG.
 
 ## Source Analysis related
 * [The MNI brain and the Talairach atlas](http://www.nil.wustl.edu/labs/kevin/man/answers/mnispace.html)
@@ -35,17 +35,17 @@
 
 ## Basic computer engineering
 * [Algorithm visualizer](http://algo-visualizer.jasonpark.me/) - Visualizes basic alrogithms with codes by the side. Good to understand some basic algorithms if you don't know them.
-* [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1) - Haven't tried it myself, but seems to be very good according to my friends.
+* [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1) - Haven't tried it myself, but seems to be good according to my friends.
 
 ## Machine Learning
-* [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) - A very good course about machine learning. Starts from very basics to semi advanced level in machine learning.
+* [Machine learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) - A very good course about machine learning. Starts from the elemental foundations to semi advanced level in machine learning.
 * [Neural Network Architectures](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba) - A good blog that talks about a history of CNN. In the end it talks optimized method called ENet (Efficient Net).
 * [Everything that Works Works Because it's Bayesian: Why Deep Nets Generalize?](http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/) - A blog talking about why Stochastic Gradient Descent (SGD) is so good at generalizing.
 * [The Best Sources to Study Machine Learning and AI: Quora Session Highlight | Ben Hamner, Kaggle CTO](http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/) - How you should learn machine learning: 1) Find problems that interest you, 2) Find the simplest way to solve it, 3) Brush it up and make it open source
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - A list of most cited deep learning papers.
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html) - A good article talking about various hyper parameter tuning in neural networks.
 * [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning) - A good resources to learn deep learning from information theory, mathematics, neuroscience, and statistical physics.
-* [Implementing Convolutional Neural Networks](http://deepnotes.io/implementing-cnn) - A very good blog explaining about the very basics of how the CNN works in its core (Convolution layer, Maxpool layer, Batchnorm layer, etc).
+* [Implementing Convolutional Neural Networks](http://deepnotes.io/implementing-cnn) - A good blog explaining about the basics of how the CNN works in its core (Convolution layer, Maxpool layer, Batchnorm layer, etc).
 
 ## Decoding
 #### Kalman filter related
@@ -54,7 +54,7 @@
 
 ## Programming
 #### MATLAB
-* [MATLAB plot gallery](https://www.mathworks.com/products/matlab/plot-gallery.html) - A very good source for plotting in MATLAB provided by Mathworks. Each figure has a link to the source so it's very useful to find the plots you want to plot and make one yourself.
+* [MATLAB plot gallery](https://www.mathworks.com/products/matlab/plot-gallery.html) - A very good source for plotting in MATLAB provided by Mathworks. Each figure has a link to the source so it's useful to find the plots you want to plot and make one yourself.
 
 #### Github
 * [Github totorial](https://try.github.io/levels/1/challenges/1) - An interactive website to learn how to use git shell. Recommended if you are starting to use git.
