@@ -8,6 +8,7 @@
 * [EEGLAB list archives](https://sccn.ucsd.edu/pipermail/eeglablist/) - Not always useful, but could be a good source to find a specific answer regarding EEG. If you want to find out more than two words at the same time, Google chrome extension: [Multi-highlight](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji) could be useful.
 * [EEGLAB tutorials](https://sccn.ucsd.edu/wiki/EEGLAB_Wiki) - All the tutorials on EEGLAB are really useful when understanding EEG related things. But they are also a little specific to EEGLAB open source library.
 * [Fieldtrip tutorials](http://www.fieldtriptoolbox.org/tutorial) - All the tutorials on Fieldtrip are very useful when understanding EEG related or fMRI related things.
+* [Brainstorm tutorials](http://neuroimage.usc.edu/brainstorm/Tutorials) - Brainstorm tutorials are well written and often useful even if you are not using the software. Especially useful when using individual MRI combined with EEG.
 
 ##### Books
 * [Analyzing Neural Time Series Data: Theory and Practice](https://www.amazon.com/Analyzing-Neural-Time-Data-Neuropsychology/dp/0262019876/ref=sr_1_2?ie=UTF8&qid=1497147525&sr=8-2&keywords=mike+x+cohen) - A very good book to understand analysis on EEG. Covers from the basics of how to use MATLAB to in depth time frequency analysis in EEG.
@@ -46,6 +47,8 @@
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html) - A good article talking about various hyper parameter tuning in neural networks.
 * [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning) - A good resources to learn deep learning from information theory, mathematics, neuroscience, and statistical physics. I especially like the beginning part of this repo's readme: "I emphasize mathematical/conceptual foundations because implementations of ideas(ex. Torch, Tensorflow) will keep evolving but the underlying theory must be sound. Anybody with an interest in deep learning can and should try to understand why things work".
 * [Implementing Convolutional Neural Networks](http://deepnotes.io/implementing-cnn) - A good blog explaining about the basics of how the CNN works in its core (Convolution layer, Maxpool layer, Batchnorm layer, etc).
+* [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html) - It's always good to know what's the advantages and disadvantages of something. "In general, anything that requires reasoning—like programming, or applying the scientific method—long-term planning, and algorithmic-like data manipulation, is out of reach for deep learning models, no matter how much data you throw at them. Even learning a sorting algorithm with a deep neural network is tremendously difficult."
+* [Yes, you should understand back propagation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b) - A good blog post to understand backpropagation algorithm.
 
 ## Decoding
 #### Kalman filter related
@@ -63,6 +66,7 @@
 ## Productivity
 * [Kanbanflow](https://kanbanflow.com) - A good way to manage different projects.
 * [Overleaf](https://www.overleaf.com/) - Online Latex writing service for papers and other documents. There's no need for you to compile and import libraries to write documents in Latex.
+* [Writing academic papers in plain text with markdown and jupyter notebook](https://sylvaindeville.net/2015/07/17/writing-academic-papers-in-plain-text-with-markdown-and-jupyter-notebook/) - A blog post talking about how to use Markdown style text editing and jupyter notebook to write a journal paper. [Pandoc](http://pandoc.org/) explained in here looks useful when converting a plain text in markdown format to Latex or other styles.
 
 ## Advice and tips for Ph.D. life
 * [Some modest advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students) - A little old, but a good list of advice for Ph.D. students.
