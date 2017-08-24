@@ -49,6 +49,7 @@
 * [Implementing Convolutional Neural Networks](http://deepnotes.io/implementing-cnn) - A good blog explaining about the basics of how the CNN works in its core (Convolution layer, Maxpool layer, Batchnorm layer, etc).
 * [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html) - It's always good to know what's the advantages and disadvantages of something. "In general, anything that requires reasoning—like programming, or applying the scientific method—long-term planning, and algorithmic-like data manipulation, is out of reach for deep learning models, no matter how much data you throw at them. Even learning a sorting algorithm with a deep neural network is tremendously difficult."
 * [Yes, you should understand back propagation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b) - A good blog post to understand backpropagation algorithm.
+* [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) - A very good reference blog talking about all sorts of gradient descent optimization methods.
 
 ## Decoding
 #### Kalman filter related
