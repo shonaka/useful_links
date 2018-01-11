@@ -2,6 +2,9 @@
 ## For research
 * [BCI Events](https://sites.google.com/site/fabienlotte/conferences) - A list of BCI related conferences summarized by Dr.Fabien Lotte. Very useful.
 
+## BCI (Job related)
+* [Wait But Why, Neuralink and the Brain's Magical Future](https://waitbutwhy.com/2017/04/neuralink.html) - A very good blog covering from the very basics of how neuron works to the concepts of brain machine interface and where's the Neuralink company is heading towards.
+
 ## EEG related
 * [Makoto's preprocessing pipeline](https://sccn.ucsd.edu/wiki/Makoto's_preprocessing_pipeline) - Very detailed step by step instructions and reasoning on EEG cleaning pipeline. Although these steps could not simply be applied to your data since there's always things to account for, it's a good source to understand basic steps in EEG processing. The codes is also [available](https://sccn.ucsd.edu/wiki/Makoto%27s_useful_EEGLAB_code#Example_of_batch_code_to_preprocess_multiple_subjects_.2801.2F12.2F2017_updated.29).
 * [Online EEGLAB workshop](https://sccn.ucsd.edu/wiki/Online_EEGLAB_Workshop) - An awesome lists of resources to understand methods regarding EEG. It has videos, pdfs, articles you could refer to.
@@ -18,6 +21,7 @@
 
 ## Neuroscience
 * [Neuroscience online](http://neuroscience.uth.tmc.edu/toc.htm) - A detailed web articles talking about basics in neuroscience.
+* [Learn Medical Neuroscience](http://www.learnmedicalneuroscience.nl/) - A portal where tons of links are collected to learn about medical neuroscience. Recommended by a coursera course: Medical Neuroscience.
 
 ## Digital signal processing
 ##### Books
@@ -50,6 +54,7 @@
 * [The Limitations of Deep Learning](https://blog.keras.io/the-limitations-of-deep-learning.html) - It's always good to know what's the advantages and disadvantages of something. "In general, anything that requires reasoning—like programming, or applying the scientific method—long-term planning, and algorithmic-like data manipulation, is out of reach for deep learning models, no matter how much data you throw at them. Even learning a sorting algorithm with a deep neural network is tremendously difficult."
 * [Yes, you should understand back propagation](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b) - A good blog post to understand backpropagation algorithm.
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/) - A very good reference blog talking about all sorts of gradient descent optimization methods.
+* [Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/index.html) - A blog post summarizing optimization methods for deep learning and also about tuning parameters.
 
 ## Decoding
 #### Kalman filter related
